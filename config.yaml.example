@@ -1,0 +1,3 @@
+controller-password: <PASSWORD FOR TOR CONTROL PORT>
+
+tor-private-key: <PRIVATE KEY IF ANY>
